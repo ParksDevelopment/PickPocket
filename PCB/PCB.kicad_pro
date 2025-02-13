@@ -467,7 +467,7 @@
       "idf": "",
       "netlist": "",
       "plot": "Production/",
-      "pos_files": "",
+      "pos_files": "Production/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
