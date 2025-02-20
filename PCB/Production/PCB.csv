@@ -1,6 +1,0 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"J3";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03";;;
-2;"MX5,MX15,MX2,MX10,MX8,MX13,MX1,MX6,MX18,MX14,MX9,MX11,MX16,MX3,MX12,MX4,MX17,MX19";"Kailh_socket_PG1350_reversible";18;"MX-NoLED";;;
-3;"U2,U1";"XIAO-nRF52840-Sense-14P-2.54-21X17.8MM";2;"Seeed Studio XIAO nRF52840";;;
-4;"J1,J2";"JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal";2;"Conn_01x02";;;
-5;"D11,D10,D2,D13,D19,D16,D5,D12,D15,D14,D1,D8,D18,D6,D4,D3,D9,D17";"D_SOD-123";18;"D_Small";;;

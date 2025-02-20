@@ -1,4 +1,4 @@
-24236126929209571
+24241346707636573
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56783,6 +56783,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+FCPConnector
+CON_522710479_MOL
+
+522710479 
+0
+6
+6
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -97999,6 +98006,20 @@ Varistor VF
 0
 2
 2
+footprints
+CON_5034800440_MOL
+
+5034800440 
+0
+6
+6
+footprints
+MOLEX_5034800600
+
+
+0
+8
+8
 keyswitches
 Kailh_socket_MX
 MX-style keyswitch with Kailh socket mount
