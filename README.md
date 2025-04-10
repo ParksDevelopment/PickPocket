@@ -1,6 +1,6 @@
 # 2Pocket
 
-![](https://github.com/ParksDevelopment/2Pocket/blob/main/Images/Cover.jpeg)
+![](https://github.com/ParksDevelopment/PickPocket/blob/main/Pictures/Legos1.jpeg)
 
 [Introduction](#Introduction)
 
@@ -53,7 +53,7 @@ This project is both not for a contest and much simpler so I will briefly touch 
 
 The PCB has a footprint of 95mm x 71.5mm x 1.6mm and is reversable so the cost of production is quite small. It also features 4 mounting holes that are small enough to fit between the keys and are intended for M2 screws. Some things to note if you plan on making one is that to accomadate for the small size the parts that are hand soldered will always be on the bottom of their respective side. This means that you will want to put the micro controller on the bottom of each board. The wiring will workm with it on the top but it will overlap with some of the keys. Same goes for the magnetic push pins.
 
-![](https://github.com/ParksDevelopment/2Pocket/blob/main/Images/pcb.jpg)
+![](https://github.com/ParksDevelopment/PickPocket/blob/main/Pictures/PCB.png)
 
 ## Firmware
 
@@ -74,12 +74,10 @@ The Case isn't anything special but I am happy with how it came out. Because of 
 
 Much happier with the case this time around and while it still has quirks I don't feel the need to change it that much. I am using the keyboard to go to work and I never have any concerns throwing it in a bag.
 
-![](https://github.com/ParksDevelopment/2Pocket/blob/main/Images/model.jpg)
+![](https://github.com/ParksDevelopment/PickPocket/blob/main/Pictures/case.png)
 
 ## Overview
 
-I have been happy with this redesign, while it is sad to lose the ADXL345, since there is a lot I was hoping to do with it and it was one of the more unique parts of the first board, it definetly made the project more streamlined 
+I have been happy with this redesign, while it is sad to lose the ADXL345, since there is a lot I was hoping to do with it and it was one of the more unique parts of the first board, it definetly made the project more streamlined, cheaper, and approachable. The pass through charging can not be understated for the impact it has made on my desire to make the board. The whole thing having "one" battery makes it much easier to work with. This is probably my last project with this form factor for a while, not because I don't like it but because I nailed what I was looking for with this one and don't have a whole lot I would want to change. a
 
-p.s. enjoy the [extra photos](https://photos.app.goo.gl/FVwNr18BBK3Yw1VW6) my wife took of the board on a hike
-
-![](https://github.com/ParksDevelopment/2Pocket/blob/main/Images/handComparison.jpeg)
+![](https://github.com/ParksDevelopment/PickPocket/blob/main/Pictures/Legos2.jpeg)
