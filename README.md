@@ -23,9 +23,9 @@ Features
 - Bluetooth support between halves and computer
 - Powered by 2 (XIAO nRF52840)[https://wiki.seeedstudio.com/XIAO_BLE/]
 - 2 3.7V 1100 mAh batteries Charged through the USB C port on the back of each board
-- ZMK and KMK compatability tested
-- Single Reversable PCB for cheaper manufacturing
-- PassThrough Charging through magnetic push pins. Plugging in the left half and connecting the boards will charge both of them.
+- ZMK and KMK compatibility tested
+- Single reversible PCB for cheaper manufacturing
+- Pass Through charging through magnetic push pins. Plugging in the left half and connecting the boards will charge both of them.
 - Still small enough for your pockets!
 
 Changes from 2Pocket
