@@ -78,6 +78,6 @@ Much happier with the case this time around and while it still has quirks I don'
 
 ## Overview
 
-I have been happy with this redesign, while it is sad to lose the ADXL345, since there is a lot I was hoping to do with it and it was one of the more unique parts of the first board, it definetly made the project more streamlined, cheaper, and approachable. The pass through charging can not be understated for the impact it has made on my desire to make the board. The whole thing having "one" battery makes it much easier to work with. This is probably my last project with this form factor for a while, not because I don't like it but because I nailed what I was looking for with this one and don't have a whole lot I would want to change. a
+I have been happy with this redesign, while it is sad to lose the ADXL345, since there is a lot I was hoping to do with it and it was one of the more unique parts of the first board, it definetly made the project more streamlined, cheaper, and approachable. The pass through charging can not be understated for the impact it has made on my desire to make the board. The whole thing having "one" battery makes it much easier to work with. This is probably my last project with this form factor for a while, not because I don't like it but because I nailed what I was looking for with this one and don't have a whole lot I would want to change. Was told by multiple people it looks like legos, ie the photos.
 
 ![](https://github.com/ParksDevelopment/PickPocket/blob/main/Pictures/Legos2.jpeg)
