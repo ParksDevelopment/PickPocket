@@ -51,7 +51,7 @@ This project is both not for a contest and much simpler so I will briefly touch 
 
 ## PCB
 
-The PCB has a footprint of 95mm x 71.5mm x 1.6mm and is reversable so the cost of production is quite small. It also features 4 mounting holes that are small enough to fit between the keys and are intended for M2 screws. Some things to note if you plan on making one is that to accomadate for the small size the parts that are hand soldered will always be on the bottom of their respective side. This means that you will want to put the micro controller on the bottom of each board. The wiring will workm with it on the top but it will overlap with some of the keys. Same goes for the magnetic push pins.
+The PCB has a footprint of 95mm x 71.5mm x 1.6mm and is reversable so the cost of production is quite small. It also features 4 mounting holes that are small enough to fit between the keys and are intended for M2 screws. Some things to note if you plan on making one is that to accomadate for the small size the parts that are hand soldered will always be on the bottom of their respective side. This means that you will want to put the micro controller on the bottom of each board. The wiring will work with it on the top but it will overlap with some of the keys. Same goes for the magnetic push pins. There are also 2 spots for the jst connectors. this is so they can be mounted on the bottom and still allow for the same ground power set up of a battery.
 
 ![](https://github.com/ParksDevelopment/PickPocket/blob/main/Pictures/PCB.png)
 
